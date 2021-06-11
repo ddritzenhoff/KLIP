@@ -1,3 +1,5 @@
 This is a group project from the spring semester of 2021 in which we built the backend for a web app.
 
-Our tech stack included: Django, AWS RDS, MySql, and Heroku
+Our tech stack included Django, AWS RDS, MySql, and Heroku
+
+I was personally responsible for building out the emergency response section and for creating the models.
